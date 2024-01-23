@@ -1,0 +1,124 @@
+@media (max-width: 56.67rem) {
+  .kalculate-text {
+    font-size: 150%;
+  }
+  .qoshuv-text-1,
+  .qoshuv-text-2,
+  .ayiruv-text-1,
+  .ayiruv-text-2,
+  .kopaytiruv-text-1,
+  .kopaytiruv-text-2,
+  .boluv-text-1,
+  .boluv-text-2 {
+    font-size: 50%;
+  }
+  .qoshuv-1,
+  .qoshuv-2,
+  .ayiruv-1,
+  .ayiruv-2,
+  .kopaytiruv-1,
+  .kopaytiruv-2,
+  .boluv-1,
+  .boluv-2 {
+    font-size: 20%;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .qoshuv-text-3,
+  .ayiruv-text-3,
+  .kopaytiruv-text-3,
+  .boluv-text-3 {
+    font-size: 80%;
+  }
+}
+@media (max-width: 45rem) {
+  .div--1,
+  .div--2,
+  .div--3,
+  .div--4 {
+    display: grid;
+    grid-template-rows: 1fr;
+    border-bottom: 2px solid black;
+    padding-top: 2rem;
+  }
+
+  .harf1,
+  .harf4 {
+    opacity: 0;
+  }
+  .tortburchak {
+    margin-left: 5rem;
+  }
+  .input-div,
+  .input-div-2 {
+    margin-left: 0;
+  }
+  .perimetr {
+    font-size: 12px;
+    padding-left: 1rem;
+  }
+  .va {
+    font-size: 100%;
+  }
+  .javobPer1,
+  .javobYuza2 {
+    font-size: 100%;
+  }
+  .inp,
+  .inp2,
+  .inp-2,
+  .inp2-2 {
+    width: 3rem;
+    text-align: center;
+  }
+  .answer-div,
+  .answer-div-2,
+  .answer-div-3,
+  .answer-div-4 {
+    margin-left: 1.5rem;
+    padding-top: 1.5rem;
+  }
+  .tenglama-div,
+  .tenglama-div-2,
+  .tenglama-div-3,
+  .tenglama-div-4 {
+    padding-top: 7rem;
+    margin-left: 0;
+  }
+  .sect-2-text {
+    margin-right: 10rem;
+  }
+  .tenglama-div,
+  .tenglama-div-2,
+  .tenglama-div-3,
+  .tenglama-div-4 {
+    padding-top: 7rem;
+    margin-left: 2rem;
+    margin-right: 5rem;
+  }
+  .tenglamalar {
+    display: block;
+  }
+  .va {
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  .javobPer1,
+  .javobYuza2 {
+    font-size: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
+@media (max-width: 1255px) {
+  .harf1,
+  .harf4 {
+    opacity: 0;
+  }
+
+  /* .input-div-2 {
+    padding-top: 4rem;
+    margin-left: 25rem;
+  } */
+}
